@@ -1,0 +1,167 @@
+.Hero{
+    background-color: #960603;
+    width: 100%;
+    height: 22%;
+}
+.Hero-encabezado{
+    width: 20%;
+    height: 65%;
+    margin-left: 10%;
+}
+#Hero-encabezado-imagen{
+     width: 100%;
+    height: 100%;
+    margin-top: 0%;
+	
+      background: <?=base_url('/assets/Media/Imagenes/logo.png')?> no-repeat;
+    background-size: 100% 100%;     
+}
+.Hero-titulos{
+    color: white;
+    margin-left: 15%;
+    text-align: center;
+}
+.Hero>div{
+     display: inline-block;
+}
+.Menu-item{
+    border: solid 1px black;
+    border-radius: 11px;
+    width: 20%;
+    height: 150px;
+    margin: 15px;
+     text-align: center;
+}
+.Menu{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.pie-pagina{
+    text-align: center;
+}
+.Menu-item-1-imagen{
+    width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/logo.png") no-repeat;
+    background-color: #960603;
+    background-size: 100%;
+}
+.Menu-item-2-imagen{
+    width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/logo2.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+.Menu-item-3-imagen{
+    width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/logo3.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+.Menu-item-4-imagen{
+    width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/logo4.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+.Menu-item-5-imagen{
+    width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/logo7.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+.Menu-item-6-imagen{
+    width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/logo5.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+.Menu-item-7-imagen{
+    width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/logo6.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+.Menu-item-8-imagen{
+    width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/logo9.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+.Menu-item-9-imagen{
+    width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/logo5.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+.Menu-item-10-imagen{
+    width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/logo10.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+.Menu-item-11-imagen{
+    width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/logo5.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+.Menu-item-12-imagen{
+    width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/logo5.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+
+.item-1{
+      
+    text-align: center;
+    
+}
+a{
+    text-decoration:none;
+    color: black;
+    margin: 0;
+    padding: 0;
+
+   
+}
+a:hover{
+    color: black;
+     text-decoration:none;
+}
+.Menu-preregistro-item-1-imagen{
+     width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/icono-menu-admision-1.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+
+.Menu-docente-item-1-imagen{
+     width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/icono-menu-docentes-1.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+.Menu-alumnos-item-1-imagen{
+     width: 100%;
+    height: 85%;
+    background: url("../Media/Imagenes/icono-menu-alumnos-1.png") no-repeat;
+    background-color: #960603;
+    background-size: 100% 100%;
+}
+
