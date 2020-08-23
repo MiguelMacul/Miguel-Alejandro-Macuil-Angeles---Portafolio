@@ -1,0 +1,27 @@
+body {
+	background: #CFDEEA url(../img/fondo4.jpg);
+	color: #282828;
+}
+.container {
+    background:#e7fee8;
+	border:1px solid white;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus {
+        color: black;
+        background-color: #58a338;
+    }
+
+        .nav-tabs > li.active > a:hover {
+            background-color: #b1fd15;
+            color:black;
+        }
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
