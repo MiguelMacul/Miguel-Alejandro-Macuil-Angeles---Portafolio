@@ -1,0 +1,10 @@
+D:\Programas\Programacion\wamp\www\Miguel-Alejandro-Macuil-Angeles---Portafolio\.NET\Proyectos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Programas\Programacion\wamp\www\Miguel-Alejandro-Macuil-Angeles---Portafolio\.NET\Proyectos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Programas\Programacion\wamp\www\Miguel-Alejandro-Macuil-Angeles---Portafolio\.NET\Proyectos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Programas\Programacion\wamp\www\Miguel-Alejandro-Macuil-Angeles---Portafolio\.NET\Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+D:\Programas\Programacion\wamp\www\Miguel-Alejandro-Macuil-Angeles---Portafolio\.NET\Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Programas\Programacion\wamp\www\Miguel-Alejandro-Macuil-Angeles---Portafolio\.NET\Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Programas\Programacion\wamp\www\Miguel-Alejandro-Macuil-Angeles---Portafolio\.NET\Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Programas\Programacion\wamp\www\Miguel-Alejandro-Macuil-Angeles---Portafolio\.NET\Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Programas\Programacion\wamp\www\Miguel-Alejandro-Macuil-Angeles---Portafolio\.NET\Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Programas\Programacion\wamp\www\Miguel-Alejandro-Macuil-Angeles---Portafolio\.NET\Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
